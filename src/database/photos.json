@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "id":"1",
+        "location":"/photos/photo1.png",
+        "alt":"Стикеры на знаке"
+    },
+    {
+        "id":"2",
+        "location":"/photos/photo2.png",
+        "alt":"Стикеры на двери"
+    }
+    ,
+    {
+        "id":"3",
+        "location":"/photos/photo3.png",
+        "alt":"Стикеры на окне"
+    }
+]
+}

@@ -1,0 +1,17 @@
+.tabs {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+
+.tab {
+    width: 24%;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.NavLink {
+    color: #000 !important;
+}

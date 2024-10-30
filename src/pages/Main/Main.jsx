@@ -21,6 +21,26 @@ export default function Index() {
         <span className="fb-t34 textblock3 shadow">Взгляни на&nbsp;то, как<br/>изменялся арт-объект<br/>с&nbsp;годами</span>
         <span className="fb-t35 textblock3 shadow">Почитай отзывы людей<br/>и&nbsp;оцени граффити сам</span>
       </div>
+      <div className="first">
+        <div className='sb-i1 imageblock shadow'></div>
+        <span className="sb-t1 textblock shadow">Изучай пространство<br/>вокруг себя и делись<br/>находками с&nbsp;комьюнити</span>
+      </div>
+      <div className="second">
+        <div className='tb-i1 imageblock shadow'></div>
+        <div className='tb-i2 imageblock shadow'></div>
+        <span className="tb-t1 textblock shadow">Экскурсии от&nbsp;стрит-<br/>арт хантеров</span>
+        <span className="tb-t2 textblock shadow">Эксклюзивный<br/>контент от&nbsp;художников</span>
+      </div>
+      <div className="first">
+        <div className='frb-i1 imageblock shadow'></div>
+        <span className="frb-t1 textblock shadow">Расскажи публике<br/>о&nbsp;своих работах!</span>
+      </div>
+      <div className="first">
+        <span className="lb-t1 textblock shadow">Подпишись на&nbsp;нас<br/>в&nbsp;телеграме, чтобы<br/>не&nbsp;пропустить запуск проекта!</span>
+        <span className="lb-t21 textblock2 shadow"><a href="https://t.me/mediastreet">Подписаться</a></span>
+        <div className='lb-i1 imageblock shadow'></div>
+        <div className='lb-i2'></div>
+      </div>
       <Modal id="id1">
         <Popup />
       </Modal>

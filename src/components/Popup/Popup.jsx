@@ -2,7 +2,7 @@ export default function Popup() {
     return (
       <div>
         <p>
-          Popup открыт!
+          Данный раздел находится в разработке!
         </p>
       </div>
     );

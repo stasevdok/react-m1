@@ -1,5 +1,6 @@
 import Photos from "../../components/Photos/Photos";
 import Navbar from "../../components/Navbar/Navbar";
+import './Photos.scss';
 
 export default function PhotosPage() {
     return (

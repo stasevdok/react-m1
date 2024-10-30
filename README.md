@@ -8,7 +8,7 @@ To start your development, you can run this command:
 yarn && yarn start
 ```
 
-Github pages https://krlrmlv.github.io/art-practice-react
+Github pages https://stasevdok.github.io/react-m1/
 
 Custom workflow [build.yml](.github/workflows/build.yml)
 
